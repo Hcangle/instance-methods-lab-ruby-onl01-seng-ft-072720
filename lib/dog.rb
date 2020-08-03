@@ -1,5 +1,6 @@
 class Dog 
-puts bark = "Woof!"
+def bark
+puts = "Woof!"
 end
 
 end
